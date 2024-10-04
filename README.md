@@ -28,6 +28,6 @@ I am currently focused on enhancing my skills in **full-stack development** and 
 ## Get in Touch 📬
 I welcome connections and opportunities for collaboration. You can reach me via:
 - **Email**: jazencode@gmail.com
-- **LinkedIn**: [linkedin.com/in/jazen-maraña-a46495237](#)
+- **LinkedIn**: [https://linkedin.com/in/jazen-maraña-a46495237](#)
 
 Feel free to explore my projects and contributions in the repositories.
