@@ -1,38 +1,34 @@
-# 👋 Hello, I'm Jazen Adrian G. Maraña
+# Jazen Maraña
 
-Welcome to my GitHub profile! I’m an **Information Technology student** at **PUP Lopez** with a passion for developing web applications and using technology to solve real-world problems. I’ve worked on various projects ranging from fitness websites to sentiment analysis tools, utilizing modern technologies such as **React.js**, **Next.js**, and **Prisma**.
+I am a freelance web developer with over **3 years of experience** in the field, having collaborated with various clients across different industries. My expertise lies in creating well-optimized websites using technologies such as **React** and **Next.js**.
 
-## 🌟 About Me
-- 🎓 **Student at PUP Lopez** pursuing a degree in Information Technology
-- 👨‍💻 **Freelance Web Developer** with proficiency in **React.js**
-- 🧠 Passionate about **Machine Learning** and **Computer Vision**
-- 🎶 Lover of music and instrumental play
-- 🎮 Anime and gaming enthusiast
+## Skills & Technologies
+- **Frontend Development**: React, Next.js, HTML, CSS, JavaScript
+- **Backend Development**: Node.js, Express, Prisma
+- **Database Management**: PostgreSQL, Supabase, Firebase, MongoDB
+- **Tools & Platforms**: Git, GitHub, Docker, Visual Studio Code
+- **Other Technologies**: Recharts, Chakra UI, Bootstrap, TailwindCSS, Redux, Recold, Sanity, Stripe, Framer
 
-## 💼 Experience
-- **Intern at Megaworld Corporation** (Data Science and Analytics Department): 
-  - Completed a **500-hour internship** focusing on **data analysis** and **business insights**
-  
-- **Freelance Web Developer**: 
-  - Built responsive and scalable web applications using **React.js**, **Next.js**, and **TypeScript**
-  - Designed and implemented features for **Powerbuilding Gym’s website**, including personalized fitness programs and membership management
-  
-- **Project Work**:
-  - Developed a **test paper grading app** using **Computer Vision** and **Machine Learning** for the education sector
-  - Worked on various **UI/UX components** using **Chakra UI** and implemented advanced state management with **Recoil**
-  - Experience with **Stripe integration**, **Supabase storage**, and PDF generation in **React.js** projects
+## Experience
+- **Freelance Web Developer**:
+  - Successfully delivered projects for clients across diverse industries, including e-commerce, healthcare, and education, ensuring high-quality and optimized web solutions.
+  - Developed and maintained responsive websites that enhance user experience and meet business needs, focusing on performance, accessibility, and SEO best practices.
+  - Collaborated with clients to understand their goals and requirements, providing tailored solutions that align with their brand and objectives.
+  - Implemented modern design principles and frameworks, resulting in visually appealing and user-friendly interfaces.
+  - Utilized version control systems (Git) for efficient project management and collaboration, enabling seamless integration of changes and updates.
+  - Troubleshot and resolved issues efficiently to maintain optimal site performance and client satisfaction.
+  - Conducted code reviews and provided mentorship to junior developers, promoting best practices in code quality and development processes.
 
-## 🔧 Technologies & Tools
-- **Frontend**: React.js, Next.js, Chakra UI, Recoil, HTML, CSS, JavaScript, TypeScript
-- **Backend**: Prisma, Node.js, Express, Supabase, PostgreSQL
-- **Dev Tools**: Git, GitHub, Docker, Visual Studio Code, Recharts, Framer Motion
-- **Other**: Machine Learning, Computer Vision, Stripe Payments API, OCR Data Processing
 
-## 📈 Current Focus
-- Building full-stack web applications and honing my skills in **Machine Learning**
-- Developing more efficient state management techniques and **data visualization** with libraries like **Recharts**
+- **Internship Experience**:
+  - Completed a comprehensive internship in the Frontend Development Department, utilizing ReactJS to create dynamic and interactive user interfaces.
 
-## 📫 Let's Connect
-Feel free to explore my projects and contributions. If you'd like to connect or collaborate, you can reach out to me via:
-- **Email**: jazenmaraña@gmail.com
-- **LinkedIn**: [linkedin.com/in/jazen-maraña](#)
+## Current Focus
+I am currently focused on enhancing my skills in **full-stack development** and expanding my knowledge in **machine learning** and **data visualization**.
+
+## Get in Touch
+I welcome connections and opportunities for collaboration. You can reach me via:
+- **Email**: jazencode@gmail.com
+- **LinkedIn**: [linkedin.com/in/jazen-maraña-a46495237](#)
+
+Feel free to explore my projects and contributions in the repositories.
